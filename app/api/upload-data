@@ -1,0 +1,23 @@
+# Add this to your main.py
+
+from fastapi import UploadFile, File
+import pandas as pd
+import io
+
+@app.post("/api/upload-data")
+async def upload_data(file: UploadFile = File(...)):
+    """Upload college data Excel file"""
+    # Read the uploaded file
+    contents = await file.read()
+    df = pd.read_excel(io.BytesIO(contents))
+    
+    # Convert to records and insert into MongoDB
+    records = df.to_dict("records")
+    
+    # Clear existing data
+    await db.db.college_data.delete_many({})
+    
+    # Insert new data
+    await db.db.college_data.insert_many(records)
+    
+    return {"message": f"Successfully loaded {len(records)} college records"}
