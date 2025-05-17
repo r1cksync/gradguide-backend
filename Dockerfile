@@ -7,7 +7,8 @@ WORKDIR /app
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
-    PYTHONPATH=/app
+    PYTHONPATH=/app \
+    PORT=8000
 
 # Install system dependencies
 RUN apt-get update && \
@@ -29,5 +30,5 @@ COPY . .
 RUN chmod -R 777 /app/data
 RUN chmod -R 777 /app/chroma_db
 
-# Command to run the application
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "${PORT:-8000}"]
+# Run using the PORT environment variable which will be set by Render
+CMD uvicorn main:app --host 0.0.0.0 --port $PORT

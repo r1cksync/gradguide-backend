@@ -1,17 +1,18 @@
 services:
   - type: web
     name: gradguide-backend
-    runtime: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT 
+    env: docker
+    dockerfilePath: ./Dockerfile
     envVars:
+      - key: PORT
+        value: 10000
       - key: MONGODB_URI
         sync: false
       - key: OPENROUTER_API_KEY
-        sync: false
+        sync: false  
       - key: OPENROUTER_MODEL
-        value: anthropic/claude-3-haiku
+        sync: false
       - key: CLERK_SECRET_KEY
         sync: false
       - key: CLERK_API_URL
-        value: https://api.clerk.dev/v1
+        sync: false
