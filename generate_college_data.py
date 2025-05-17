@@ -1,88 +1,35 @@
+# create_sample_data.py
 import pandas as pd
 import os
-import random
 
-# Create directory for data if it doesn't exist
-os.makedirs("data", exist_ok=True)
-
-# List of exams
-exams = ["JEE Mains", "JEE Advanced", "BITSAT"]
-
-# List of top colleges
-colleges = {
-    "JEE Mains": [
-        "NIT Trichy", "NIT Warangal", "NIT Surathkal", "NIT Rourkela", 
-        "IIIT Hyderabad", "IIIT Delhi", "IIIT Bangalore", 
-        "DTU Delhi", "NSIT Delhi", "PEC Chandigarh"
-    ],
-    "JEE Advanced": [
-        "IIT Bombay", "IIT Delhi", "IIT Madras", "IIT Kanpur", 
-        "IIT Kharagpur", "IIT Roorkee", "IIT Guwahati", 
-        "IIT Hyderabad", "IIT BHU", "IIT Indore"
-    ],
-    "BITSAT": [
-        "BITS Pilani", "BITS Hyderabad", "BITS Goa"
-    ]
-}
-
-# List of branches
-branches = [
-    "Computer Science and Engineering", 
-    "Electronics and Communication Engineering",
-    "Mechanical Engineering", 
-    "Electrical Engineering",
-    "Civil Engineering",
-    "Chemical Engineering",
-    "Aerospace Engineering",
-    "Biotechnology"
+# Sample data for college admissions
+data = [
+    {"exam": "JEE Main", "college": "IIT Delhi", "branch": "Computer Science", "cutoff_rank": 500},
+    {"exam": "JEE Main", "college": "IIT Delhi", "branch": "Electrical Engineering", "cutoff_rank": 800},
+    {"exam": "JEE Main", "college": "IIT Bombay", "branch": "Computer Science", "cutoff_rank": 300},
+    {"exam": "JEE Main", "college": "IIT Bombay", "branch": "Mechanical Engineering", "cutoff_rank": 1000},
+    {"exam": "JEE Advanced", "college": "IIT Madras", "branch": "Computer Science", "cutoff_rank": 200},
+    {"exam": "JEE Advanced", "college": "IIT Madras", "branch": "Aerospace Engineering", "cutoff_rank": 900},
+    {"exam": "JEE Advanced", "college": "IIT Kanpur", "branch": "Chemical Engineering", "cutoff_rank": 1200},
+    {"exam": "BITSAT", "college": "BITS Pilani", "branch": "Computer Science", "cutoff_rank": 100},
+    {"exam": "BITSAT", "college": "BITS Pilani", "branch": "Electronics and Communication", "cutoff_rank": 300},
+    {"exam": "BITSAT", "college": "BITS Goa", "branch": "Computer Science", "cutoff_rank": 200},
+    {"exam": "BITSAT", "college": "BITS Hyderabad", "branch": "Mechanical Engineering", "cutoff_rank": 600}
 ]
-
-# Rank ranges for different exams
-rank_ranges = {
-    "JEE Mains": (1, 50000),
-    "JEE Advanced": (1, 20000),
-    "BITSAT": (1, 10000)
-}
-
-# Generate data
-data = []
-
-# For each exam
-for exam in exams:
-    # For each college for this exam
-    for college in colleges[exam]:
-        # For each branch
-        for branch in branches:
-            # Generate a realistic cutoff rank
-            if branch == "Computer Science and Engineering":
-                # CS usually has the lowest cutoffs (best ranks)
-                rank_min, rank_max = rank_ranges[exam]
-                cutoff = random.randint(rank_min, int(rank_max * 0.3))
-            elif branch in ["Electronics and Communication Engineering", "Electrical Engineering"]:
-                # ECE and EE have the next best ranks
-                rank_min, rank_max = rank_ranges[exam]
-                cutoff = random.randint(int(rank_max * 0.2), int(rank_max * 0.5))
-            else:
-                # Other branches have higher cutoffs
-                rank_min, rank_max = rank_ranges[exam]
-                cutoff = random.randint(int(rank_max * 0.4), rank_max)
-            
-            # Add to our data
-            data.append({
-                "exam": exam,
-                "college": college,
-                "branch": branch,
-                "cutoff_rank": cutoff
-            })
 
 # Create DataFrame
 df = pd.DataFrame(data)
 
-# Sort by exam, then by cutoff rank
-df = df.sort_values(by=["exam", "cutoff_rank"])
+# Create directory if it doesn't exist
+os.makedirs("data", exist_ok=True)
 
 # Save to Excel
 df.to_excel("data/college_data.xlsx", index=False)
 
-print(f"Generated college_data.xlsx with {len(df)} entries")
-print(f"File saved at: {os.path.abspath('data/college_data.xlsx')}")
+# Also save as JSON for backup
+os.makedirs("data/backup", exist_ok=True)
+df.to_json("data/backup/college_data.json", orient="records")
+
+print("Sample data files created:")
+print("- data/college_data.xlsx")
+print("- data/backup/college_data.json")
