@@ -9,7 +9,7 @@ services:
       - key: MONGODB_URI
         sync: false
       - key: OPENROUTER_API_KEY
-        sync: false  
+        sync: false
       - key: OPENROUTER_MODEL
         sync: false
       - key: CLERK_SECRET_KEY

@@ -1,35 +1,30 @@
-from motor.motor_asyncio import AsyncIOMotorClient
+from pymongo import MongoClient
 from app.core.config import settings
 import logging
 
-# Configure logging
 logger = logging.getLogger("gradguide")
 
 class MongoDB:
-    client: AsyncIOMotorClient = None
+    client = None
     db = None
 
 db = MongoDB()
 
-async def connect_to_mongo():
+def connect_to_mongo():
     try:
-        # Initialize MongoDB client with TLS/SSL settings
-        db.client = AsyncIOMotorClient(
+        db.client = MongoClient(
             settings.MONGODB_URI,
-            tls=True,  # Enable TLS/SSL
-            tlsAllowInvalidCertificates=True,  # Allow invalid certificates (for testing)
-            serverSelectionTimeoutMS=5000,  # 5-second timeout
-            connectTimeoutMS=20000  # 20-second connection timeout
+            serverSelectionTimeoutMS=5000,
+            connectTimeoutMS=20000
         )
         db.db = db.client.gradguide
-        # Verify connection
-        await db.client.admin.command('ping')
+        db.client.admin.command('ping')
         logger.info("Connected to MongoDB")
     except Exception as e:
         logger.error(f"MongoDB connection failed: {e}")
         raise
 
-async def close_mongo_connection():
+def close_mongo_connection():
     try:
         if db.client:
             db.client.close()

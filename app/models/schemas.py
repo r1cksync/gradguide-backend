@@ -1,7 +1,5 @@
-from pydantic import BaseModel, Field
-from typing import List, Optional, Dict, Any
-from datetime import datetime
-import uuid
+from pydantic import BaseModel
+from typing import List, Dict
 
 class CollegeEntry(BaseModel):
     exam: str
@@ -16,11 +14,6 @@ class ChatMessage(BaseModel):
 class ChatRequest(BaseModel):
     messages: List[ChatMessage]
     user_id: str
-
-class UserSearch(BaseModel):
-    user_id: str
-    exams: List[str]
-    ranks: Dict[str, int]
 
 class FilterRequest(BaseModel):
     exams: List[str]

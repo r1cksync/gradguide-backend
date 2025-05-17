@@ -9,10 +9,10 @@ services:
       - ./app:/app/app
       - ./data:/app/data
     environment:
+      - PORT=8000
       - MONGODB_URI=${MONGODB_URI}
       - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
       - OPENROUTER_MODEL=${OPENROUTER_MODEL}
       - CLERK_SECRET_KEY=${CLERK_SECRET_KEY}
       - CLERK_API_URL=${CLERK_API_URL}
-      - PORT=8000
     restart: unless-stopped

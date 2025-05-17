@@ -1,14 +1,12 @@
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
+*.pyc
+*.pyo
+*.pyd
 .Python
 venv/
-ENV/
 .env
 .git/
 .gitignore
 .vscode/
-README.md
 *.md
 .pytest_cache/
