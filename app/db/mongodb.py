@@ -1,33 +1,38 @@
 from pymongo import MongoClient
-from app.core.config import settings
+from dotenv import load_dotenv
+import os
 import logging
 
 logger = logging.getLogger("gradguide")
 
 class MongoDB:
-    client = None
-    db = None
+    def __init__(self):
+        self.client = None
+        self.db = None
+
+    def connect_to_database(self):
+        try:
+            mongodb_uri = os.getenv("MONGODB_URI", "mongodb+srv://sagnik23102:j9TildStvOeklXmg@gradguide.zdinpa4.mongodb.net/?retryWrites=true&w=majority&appName=gradguide")
+            self.client = MongoClient(
+                mongodb_uri,
+                serverSelectionTimeoutMS=5000,
+                connectTimeoutMS=20000,
+                tls=True
+            )
+            self.client.admin.command("ping")
+            self.db = self.client.gradguide
+            logger.info("MongoDB connection established")
+        except Exception as e:
+            logger.error(f"MongoDB connection error: {str(e)}")
+            raise
+
+    def close_database_connection(self):
+        try:
+            if self.client:
+                self.client.close()
+                logger.info("MongoDB connection closed")
+        except Exception as e:
+            logger.error(f"MongoDB close error: {str(e)}")
+            raise
 
 db = MongoDB()
-
-def connect_to_mongo():
-    try:
-        db.client = MongoClient(
-            settings.MONGODB_URI,
-            serverSelectionTimeoutMS=5000,
-            connectTimeoutMS=20000
-        )
-        db.db = db.client.gradguide
-        db.client.admin.command('ping')
-        logger.info("Connected to MongoDB")
-    except Exception as e:
-        logger.error(f"MongoDB connection failed: {e}")
-        raise
-
-def close_mongo_connection():
-    try:
-        if db.client:
-            db.client.close()
-            logger.info("MongoDB connection closed")
-    except Exception as e:
-        logger.error(f"Error closing MongoDB connection: {e}")

@@ -1,0 +1,483 @@
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Aerospace Engineering","cutoff_rank":3500,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Chemical Engineering","cutoff_rank":4500,"average_placement":17,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Civil Engineering","cutoff_rank":6000,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Computer Science and Engineering","cutoff_rank":150,"average_placement":27,"median_placement":25,"highest_placement":60}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Electrical Engineering","cutoff_rank":1000,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Engineering Physics","cutoff_rank":2500,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Mechanical Engineering","cutoff_rank":2500,"average_placement":19,"median_placement":17,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Metallurgical and Materials Engineering","cutoff_rank":6500,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Naval Architecture and Ocean Engineering","cutoff_rank":8000,"average_placement":14,"median_placement":13,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Madras","branch":"Engineering Design","cutoff_rank":4000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Biotechnology and Biochemical Engineering","cutoff_rank":5000,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Chemical Engineering","cutoff_rank":4000,"average_placement":17,"median_placement":16,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Civil Engineering","cutoff_rank":5500,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Computer Science and Engineering","cutoff_rank":120,"average_placement":25,"median_placement":22,"highest_placement":60}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Electrical Engineering","cutoff_rank":800,"average_placement":21,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Engineering Physics","cutoff_rank":3000,"average_placement":17,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Mechanical Engineering","cutoff_rank":2000,"average_placement":19,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Production and Industrial Engineering","cutoff_rank":4500,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Textile Technology","cutoff_rank":7000,"average_placement":14,"median_placement":13,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Mathematics and Computing","cutoff_rank":400,"average_placement":24,"median_placement":22,"highest_placement":55}
+{"exam":"JEE Advanced","college":"IIT Delhi","branch":"Energy Engineering","cutoff_rank":4500,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Aerospace Engineering","cutoff_rank":3000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Chemical Engineering","cutoff_rank":4000,"average_placement":17,"median_placement":16,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Civil Engineering","cutoff_rank":5000,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Computer Science and Engineering","cutoff_rank":100,"average_placement":26,"median_placement":24,"highest_placement":60}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Electrical Engineering","cutoff_rank":600,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Engineering Physics","cutoff_rank":2500,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Mechanical Engineering","cutoff_rank":1800,"average_placement":19,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Metallurgical Engineering and Materials Science","cutoff_rank":5500,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Energy Science and Engineering","cutoff_rank":4000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Bombay","branch":"Environmental Science and Engineering","cutoff_rank":6000,"average_placement":14,"median_placement":13,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Aerospace Engineering","cutoff_rank":4000,"average_placement":17,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Biological Sciences and Bioengineering","cutoff_rank":6000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Chemical Engineering","cutoff_rank":4500,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Civil Engineering","cutoff_rank":5500,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Computer Science and Engineering","cutoff_rank":250,"average_placement":25,"median_placement":23,"highest_placement":55}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Electrical Engineering","cutoff_rank":1000,"average_placement":21,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Materials Science and Engineering","cutoff_rank":6500,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Mechanical Engineering","cutoff_rank":2500,"average_placement":18,"median_placement":17,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Kanpur","branch":"Mathematics and Scientific Computing","cutoff_rank":600,"average_placement":23,"median_placement":21,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Aerospace Engineering","cutoff_rank":4500,"average_placement":17,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Agricultural and Food Engineering","cutoff_rank":8000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Biotechnology and Biochemical Engineering","cutoff_rank":7000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Chemical Engineering","cutoff_rank":5000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Civil Engineering","cutoff_rank":6000,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Computer Science and Engineering","cutoff_rank":300,"average_placement":24,"median_placement":22,"highest_placement":55}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Electrical Engineering","cutoff_rank":1200,"average_placement":20,"median_placement":19,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Electronics and Electrical Communication Engineering","cutoff_rank":800,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Instrumentation Engineering","cutoff_rank":2500,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Mechanical Engineering","cutoff_rank":3000,"average_placement":18,"median_placement":17,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Metallurgical and Materials Engineering","cutoff_rank":6500,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Mining Engineering","cutoff_rank":8500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Ocean Engineering and Naval Architecture","cutoff_rank":9000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Industrial and Systems Engineering","cutoff_rank":4000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Kharagpur","branch":"Architecture","cutoff_rank":10000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Architecture","cutoff_rank":11000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Biotechnology","cutoff_rank":7500,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Chemical Engineering","cutoff_rank":5000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Civil Engineering","cutoff_rank":6500,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Computer Science and Engineering","cutoff_rank":400,"average_placement":24,"median_placement":22,"highest_placement":55}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Electrical Engineering","cutoff_rank":1800,"average_placement":20,"median_placement":19,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Electronics and Communication Engineering","cutoff_rank":1200,"average_placement":21,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Engineering Physics","cutoff_rank":4500,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Mechanical Engineering","cutoff_rank":3500,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Metallurgical and Materials Engineering","cutoff_rank":7000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Roorkee","branch":"Production and Industrial Engineering","cutoff_rank":5500,"average_placement":15,"median_placement":14,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Biosciences and Bioengineering","cutoff_rank":8500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Chemical Engineering","cutoff_rank":5500,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Chemical Science and Technology","cutoff_rank":6000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Civil Engineering","cutoff_rank":7000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Computer Science and Engineering","cutoff_rank":600,"average_placement":23,"median_placement":21,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Electronics and Communication Engineering","cutoff_rank":1500,"average_placement":20,"median_placement":19,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Electronics and Electrical Engineering","cutoff_rank":2000,"average_placement":19,"median_placement":18,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Engineering Physics","cutoff_rank":5000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Mathematics and Computing","cutoff_rank":1000,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Guwahati","branch":"Mechanical Engineering","cutoff_rank":4000,"average_placement":17,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Artificial Intelligence","cutoff_rank":700,"average_placement":24,"median_placement":22,"highest_placement":55}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Biomedical Engineering","cutoff_rank":8000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Biotechnology and Bioinformatics","cutoff_rank":7500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Chemical Engineering","cutoff_rank":5000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Civil Engineering","cutoff_rank":6500,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Computer Science and Engineering","cutoff_rank":500,"average_placement":25,"median_placement":23,"highest_placement":60}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Electrical Engineering","cutoff_rank":2000,"average_placement":20,"median_placement":19,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Engineering Physics","cutoff_rank":4500,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Engineering Science","cutoff_rank":4000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Materials Science and Metallurgical Engineering","cutoff_rank":7000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Mechanical and Aerospace Engineering","cutoff_rank":3500,"average_placement":17,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Chemical Engineering","cutoff_rank":15000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Civil Engineering","cutoff_rank":20000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Computer Science and Engineering","cutoff_rank":3000,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Electrical and Electronics Engineering","cutoff_rank":8000,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Electronics and Communication Engineering","cutoff_rank":6000,"average_placement":19,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Instrumentation and Control Engineering","cutoff_rank":12000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Mechanical Engineering","cutoff_rank":10000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Metallurgical and Materials Engineering","cutoff_rank":22000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Tiruchirappalli","branch":"Production Engineering","cutoff_rank":18000,"average_placement":13,"median_placement":12,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Ceramic Engineering","cutoff_rank":9000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Chemical Engineering","cutoff_rank":6000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Civil Engineering","cutoff_rank":7500,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Computer Science and Engineering","cutoff_rank":800,"average_placement":23,"median_placement":21,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Electrical Engineering","cutoff_rank":2500,"average_placement":19,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Electronics Engineering","cutoff_rank":2000,"average_placement":20,"median_placement":19,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Mechanical Engineering","cutoff_rank":4000,"average_placement":17,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Metallurgical Engineering","cutoff_rank":8000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Mining Engineering","cutoff_rank":9500,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT (BHU) Varanasi","branch":"Pharmaceutical Engineering and Technology","cutoff_rank":10000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Anna University","branch":"Aeronautical Engineering","cutoff_rank":25000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Anna University","branch":"Automobile Engineering","cutoff_rank":30000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Anna University","branch":"Civil Engineering","cutoff_rank":35000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Anna University","branch":"Computer Science and Engineering","cutoff_rank":5000,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Main","college":"Anna University","branch":"Electrical and Electronics Engineering","cutoff_rank":15000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"Anna University","branch":"Electronics and Communication Engineering","cutoff_rank":10000,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Main","college":"Anna University","branch":"Information Technology","cutoff_rank":7000,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"JEE Main","college":"Anna University","branch":"Mechanical Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Anna University","branch":"Chemical Engineering","cutoff_rank":25000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"Anna University","branch":"Biomedical Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Warangal","branch":"Biotechnology","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Warangal","branch":"Chemical Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Warangal","branch":"Civil Engineering","cutoff_rank":25000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Warangal","branch":"Computer Science and Engineering","cutoff_rank":4000,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Main","college":"NIT Warangal","branch":"Electrical and Electronics Engineering","cutoff_rank":10000,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Warangal","branch":"Electronics and Communication Engineering","cutoff_rank":7000,"average_placement":19,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Main","college":"NIT Warangal","branch":"Mechanical Engineering","cutoff_rank":15000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Warangal","branch":"Metallurgical and Materials Engineering","cutoff_rank":28000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Artificial Intelligence","cutoff_rank":6000,"average_placement":21,"median_placement":19,"highest_placement":48}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Chemical Engineering","cutoff_rank":18000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Civil Engineering","cutoff_rank":22000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Computer Science and Engineering","cutoff_rank":3500,"average_placement":23,"median_placement":21,"highest_placement":50}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Electrical and Electronics Engineering","cutoff_rank":9000,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Electronics and Communication Engineering","cutoff_rank":6500,"average_placement":19,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Information Technology","cutoff_rank":5000,"average_placement":22,"median_placement":20,"highest_placement":48}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Mechanical Engineering","cutoff_rank":12000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Metallurgical and Materials Engineering","cutoff_rank":25000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Surathkal","branch":"Mining Engineering","cutoff_rank":30000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Chemical Engineering","cutoff_rank":2000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Civil Engineering","cutoff_rank":2500,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Computer Science and Engineering","cutoff_rank":200,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Electrical Engineering","cutoff_rank":800,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Electronics and Telecommunication Engineering","cutoff_rank":500,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Information Technology","cutoff_rank":300,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Mechanical Engineering","cutoff_rank":1200,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Metallurgical and Materials Engineering","cutoff_rank":3000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Power Engineering","cutoff_rank":2500,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Production Engineering","cutoff_rank":2800,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"WBJEE","college":"Jadavpur University","branch":"Printing Engineering","cutoff_rank":3500,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Biotechnology","cutoff_rank":20000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Chemical Engineering","cutoff_rank":25000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Civil Engineering","cutoff_rank":30000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Computer Science and Engineering","cutoff_rank":8000,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"CSE (Artificial Intelligence and Machine Learning)","cutoff_rank":9000,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"CSE (Cyber Physical Systems)","cutoff_rank":10000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Electrical and Electronics Engineering","cutoff_rank":15000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Electronics and Communication Engineering","cutoff_rank":12000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Electronics and Instrumentation Engineering","cutoff_rank":18000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Information Technology","cutoff_rank":9000,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"VITEEE","college":"VIT Vellore","branch":"Mechanical Engineering","cutoff_rank":20000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Biotechnology","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Civil Engineering","cutoff_rank":35000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Computer Engineering","cutoff_rank":6000,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Electrical Engineering","cutoff_rank":15000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Electronics and Communication Engineering","cutoff_rank":10000,"average_placement":17,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Engineering Physics","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Environmental Engineering","cutoff_rank":45000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Mechanical Engineering","cutoff_rank":20000,"average_placement":13,"median_placement":12,"highest_placement":30}
+{"exam":"JEE Main","college":"Delhi Technological University","branch":"Production and Industrial Engineering","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Advanced","college":"IIT Indore","branch":"Chemical Engineering","cutoff_rank":7000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Indore","branch":"Civil Engineering","cutoff_rank":8500,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Indore","branch":"Computer Science and Engineering","cutoff_rank":1200,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Indore","branch":"Electrical Engineering","cutoff_rank":3500,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Indore","branch":"Mechanical Engineering","cutoff_rank":5500,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Indore","branch":"Metallurgical Engineering and Materials Science","cutoff_rank":9000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Mandi","branch":"Civil Engineering","cutoff_rank":9000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Mandi","branch":"Computer Science and Engineering","cutoff_rank":1500,"average_placement":21,"median_placement":19,"highest_placement":48}
+{"exam":"JEE Advanced","college":"IIT Mandi","branch":"Data Science and Engineering","cutoff_rank":2000,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Mandi","branch":"Electrical Engineering","cutoff_rank":4000,"average_placement":17,"median_placement":16,"highest_placement":38}
+{"exam":"JEE Advanced","college":"IIT Mandi","branch":"Mechanical Engineering","cutoff_rank":6000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Mandi","branch":"Engineering Physics","cutoff_rank":8000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Aerospace Engineering","cutoff_rank":35000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Automobile Engineering","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Biotechnology","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Chemical Engineering","cutoff_rank":36000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Civil Engineering","cutoff_rank":45000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Computer Science and Engineering","cutoff_rank":12000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Electrical and Electronics Engineering","cutoff_rank":25000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Electronics and Communication Engineering","cutoff_rank":20000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"SRM Institute of Science and Technology","branch":"Mechanical Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Patna","branch":"Chemical Engineering","cutoff_rank":7500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Patna","branch":"Civil Engineering","cutoff_rank":9000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Patna","branch":"Computer Science and Engineering","cutoff_rank":1400,"average_placement":21,"median_placement":19,"highest_placement":48}
+{"exam":"JEE Advanced","college":"IIT Patna","branch":"Electrical and Electronics Engineering","cutoff_rank":3800,"average_placement":17,"median_placement":16,"highest_placement":38}
+{"exam":"JEE Advanced","college":"IIT Patna","branch":"Mechanical Engineering","cutoff_rank":6000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Patna","branch":"Metallurgical and Materials Engineering","cutoff_rank":9500,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Patna","branch":"Engineering Physics","cutoff_rank":8500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Aeronautical Engineering","cutoff_rank":45000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Automobile Engineering","cutoff_rank":50000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Biotechnology","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Chemical Engineering","cutoff_rank":42000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Civil Engineering","cutoff_rank":48000,"average_placement":8,"median_placement":7,"highest_placement":16}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Computer Science and Engineering","cutoff_rank":15000,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Electrical and Electronics Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Electronics and Communication Engineering","cutoff_rank":25000,"average_placement":13,"median_placement":12,"highest_placement":30}
+{"exam":"JEE Main","college":"Sathyabama Institute of Science and Technology","branch":"Mechanical Engineering","cutoff_rank":35000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Advanced","college":"IIT Jodhpur","branch":"Artificial Intelligence and Data Science","cutoff_rank":2500,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Jodhpur","branch":"Chemical Engineering","cutoff_rank":8000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Jodhpur","branch":"Civil Engineering","cutoff_rank":9500,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Advanced","college":"IIT Jodhpur","branch":"Computer Science and Engineering","cutoff_rank":1600,"average_placement":21,"median_placement":19,"highest_placement":48}
+{"exam":"JEE Advanced","college":"IIT Jodhpur","branch":"Electrical Engineering","cutoff_rank":4500,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Jodhpur","branch":"Mechanical Engineering","cutoff_rank":6500,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Jodhpur","branch":"Materials Engineering","cutoff_rank":10000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Koneru Lakshmaiah Education Foundation","branch":"Biotechnology","cutoff_rank":42000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Koneru Lakshmaiah Education Foundation","branch":"Civil Engineering","cutoff_rank":50000,"average_placement":8,"median_placement":7,"highest_placement":16}
+{"exam":"JEE Main","college":"Koneru Lakshmaiah Education Foundation","branch":"Computer Science and Engineering","cutoff_rank":14000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"Koneru Lakshmaiah Education Foundation","branch":"Electrical and Electronics Engineering","cutoff_rank":32000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Koneru Lakshmaiah Education Foundation","branch":"Electronics and Communication Engineering","cutoff_rank":26000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Koneru Lakshmaiah Education Foundation","branch":"Mechanical Engineering","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Koneru Lakshmaiah Education Foundation","branch":"Artificial Intelligence","cutoff_rank":16000,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Koneru Lakshmaiah Education Foundation","branch":"Internet of Things","cutoff_rank":18000,"average_placement":15,"median_placement":13,"highest_placement":32}
+{"exam":"JEE Main","college":"MNIT Jaipur","branch":"Chemical Engineering","cutoff_rank":28000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"MNIT Jaipur","branch":"Civil Engineering","cutoff_rank":34000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"MNIT Jaipur","branch":"Computer Science and Engineering","cutoff_rank":7000,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"JEE Main","college":"MNIT Jaipur","branch":"Electrical Engineering","cutoff_rank":16000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"MNIT Jaipur","branch":"Electronics and Communication Engineering","cutoff_rank":11000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"MNIT Jaipur","branch":"Mechanical Engineering","cutoff_rank":22000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"MNIT Jaipur","branch":"Metallurgical and Materials Engineering","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"SASTRA","branch":"Biotechnology","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"SASTRA","branch":"Chemical Engineering","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"SASTRA","branch":"Civil Engineering","cutoff_rank":45000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"SASTRA","branch":"Computer Science and Engineering","cutoff_rank":13000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"SASTRA","branch":"Electrical and Electronics Engineering","cutoff_rank":28000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"SASTRA","branch":"Electronics and Communication Engineering","cutoff_rank":23000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"SASTRA","branch":"Information Technology","cutoff_rank":15000,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"SASTRA","branch":"Mechanical Engineering","cutoff_rank":34000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Vellore Institute of Technology","branch":"Biotechnology","cutoff_rank":45000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Vellore Institute of Technology","branch":"Chemical Engineering","cutoff_rank":40000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Vellore Institute of Technology","branch":"Civil Engineering","cutoff_rank":50000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"Vellore Institute of Technology","branch":"Computer Science and Engineering","cutoff_rank":12000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"Vellore Institute of Technology","branch":"Electrical and Electronics Engineering","cutoff_rank":28000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Vellore Institute of Technology","branch":"Electronics and Communication Engineering","cutoff_rank":22000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Vellore Institute of Technology","branch":"Mechanical Engineering","cutoff_rank":35000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Vellore Institute of Technology","branch":"Information Technology","cutoff_rank":14000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Advanced","college":"IIT Bhubaneswar","branch":"Civil Engineering","cutoff_rank":10000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Advanced","college":"IIT Bhubaneswar","branch":"Computer Science and Engineering","cutoff_rank":1800,"average_placement":21,"median_placement":19,"highest_placement":48}
+{"exam":"JEE Advanced","college":"IIT Bhubaneswar","branch":"Electrical Engineering","cutoff_rank":4800,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Bhubaneswar","branch":"Electronics and Communication Engineering","cutoff_rank":3000,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Bhubaneswar","branch":"Mechanical Engineering","cutoff_rank":6800,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Bhubaneswar","branch":"Metallurgical and Materials Engineering","cutoff_rank":11000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Artificial Intelligence","cutoff_rank":1000,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Chemical Engineering","cutoff_rank":6500,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Civil Engineering","cutoff_rank":9000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Computer Science and Engineering","cutoff_rank":600,"average_placement":23,"median_placement":21,"highest_placement":52}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Electrical Engineering","cutoff_rank":2500,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Engineering Physics","cutoff_rank":5500,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Mechanical Engineering","cutoff_rank":4500,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Hyderabad","branch":"Materials Science and Metallurgical Engineering","cutoff_rank":9500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"Amity University, Noida","branch":"Aerospace Engineering","cutoff_rank":48000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"Amity University, Noida","branch":"Biotechnology","cutoff_rank":42000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Amity University, Noida","branch":"Civil Engineering","cutoff_rank":50000,"average_placement":8,"median_placement":7,"highest_placement":16}
+{"exam":"JEE Main","college":"Amity University, Noida","branch":"Computer Science and Engineering","cutoff_rank":16000,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Amity University, Noida","branch":"Electrical and Electronics Engineering","cutoff_rank":34000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Amity University, Noida","branch":"Electronics and Communication Engineering","cutoff_rank":28000,"average_placement":13,"median_placement":12,"highest_placement":30}
+{"exam":"JEE Main","college":"Amity University, Noida","branch":"Mechanical Engineering","cutoff_rank":40000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Amity University, Noida","branch":"Information Technology","cutoff_rank":18000,"average_placement":15,"median_placement":13,"highest_placement":32}
+{"exam":"JEE Main","college":"Jamia Millia Islamia","branch":"Civil Engineering","cutoff_rank":38000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Jamia Millia Islamia","branch":"Computer Engineering","cutoff_rank":9000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"Jamia Millia Islamia","branch":"Electrical Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Jamia Millia Islamia","branch":"Electronics and Communication Engineering","cutoff_rank":14000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"Jamia Millia Islamia","branch":"Mechanical Engineering","cutoff_rank":28000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Amrita Vishwa Vidyapeetham","branch":"Aerospace Engineering","cutoff_rank":35000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Amrita Vishwa Vidyapeetham","branch":"Chemical Engineering","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Amrita Vishwa Vidyapeetham","branch":"Civil Engineering","cutoff_rank":45000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"Amrita Vishwa Vidyapeetham","branch":"Computer Science and Engineering","cutoff_rank":10000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"Amrita Vishwa Vidyapeetham","branch":"Electrical and Electronics Engineering","cutoff_rank":25000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Amrita Vishwa Vidyapeetham","branch":"Electronics and Communication Engineering","cutoff_rank":20000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Amrita Vishwa Vidyapeetham","branch":"Mechanical Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Amrita Vishwa Vidyapeetham","branch":"Artificial Intelligence","cutoff_rank":12000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Biotechnology","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Chemical Engineering","cutoff_rank":35000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Civil Engineering","cutoff_rank":38000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Computer Engineering","cutoff_rank":8000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Electrical Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Electronics and Communication Engineering","cutoff_rank":15000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Electronics and Computer Engineering","cutoff_rank":12000,"average_placement":16,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Mechanical Engineering","cutoff_rank":25000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Mechatronics","cutoff_rank":30000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"BITSAT","college":"BITS Pilani","branch":"Chemical Engineering","cutoff_rank":250,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"BITSAT","college":"BITS Pilani","branch":"Civil Engineering","cutoff_rank":260,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"BITSAT","college":"BITS Pilani","branch":"Computer Science and Engineering","cutoff_rank":350,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"BITSAT","college":"BITS Pilani","branch":"Electrical and Electronics Engineering","cutoff_rank":300,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"BITSAT","college":"BITS Pilani","branch":"Electronics and Communication Engineering","cutoff_rank":310,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"BITSAT","college":"BITS Pilani","branch":"Electronics and Instrumentation Engineering","cutoff_rank":280,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"BITSAT","college":"BITS Pilani","branch":"Mechanical Engineering","cutoff_rank":270,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"BITSAT","college":"BITS Pilani","branch":"Manufacturing Engineering","cutoff_rank":260,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Biomedical Engineering","cutoff_rank":35000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Biotechnology","cutoff_rank":32000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Ceramic Engineering","cutoff_rank":38000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Chemical Engineering","cutoff_rank":25000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Civil Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Computer Science and Engineering","cutoff_rank":5000,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Electrical Engineering","cutoff_rank":12000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Electronics and Communication Engineering","cutoff_rank":8000,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Mechanical Engineering","cutoff_rank":18000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Metallurgical and Materials Engineering","cutoff_rank":34000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Rourkela","branch":"Mining Engineering","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Biotechnology","cutoff_rank":34000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Chemical Engineering","cutoff_rank":26000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Civil Engineering","cutoff_rank":31000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Computer Science and Engineering","cutoff_rank":4500,"average_placement":21,"median_placement":19,"highest_placement":48}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Electrical and Electronics Engineering","cutoff_rank":11000,"average_placement":17,"median_placement":16,"highest_placement":38}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Electronics and Communication Engineering","cutoff_rank":7500,"average_placement":18,"median_placement":17,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Mechanical Engineering","cutoff_rank":17000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Production Engineering","cutoff_rank":30000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Calicut","branch":"Engineering Physics","cutoff_rank":28000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Anna University","branch":"Civil Engineering","cutoff_rank":45000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"Anna University","branch":"Computer Science and Engineering","cutoff_rank":10000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"Anna University","branch":"Electrical and Electronics Engineering","cutoff_rank":25000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Anna University","branch":"Electronics and Communication Engineering","cutoff_rank":18000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Anna University","branch":"Mechanical Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Anna University","branch":"Information Technology","cutoff_rank":12000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"Anna University","branch":"Chemical Engineering","cutoff_rank":40000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Silchar","branch":"Civil Engineering","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Silchar","branch":"Computer Science and Engineering","cutoff_rank":8000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Silchar","branch":"Electrical Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Silchar","branch":"Electronics and Communication Engineering","cutoff_rank":12000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Silchar","branch":"Mechanical Engineering","cutoff_rank":25000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Silchar","branch":"Electronics and Instrumentation Engineering","cutoff_rank":28000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Palakkad","branch":"Civil Engineering","cutoff_rank":11000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Advanced","college":"IIT Palakkad","branch":"Computer Science and Engineering","cutoff_rank":2000,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Palakkad","branch":"Electrical Engineering","cutoff_rank":5500,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Palakkad","branch":"Mechanical Engineering","cutoff_rank":7500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Palakkad","branch":"Data Science and Engineering","cutoff_rank":2500,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"JEE Main","college":"NIT Durgapur","branch":"Biotechnology","cutoff_rank":45000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Durgapur","branch":"Chemical Engineering","cutoff_rank":35000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Durgapur","branch":"Civil Engineering","cutoff_rank":38000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Durgapur","branch":"Computer Science and Engineering","cutoff_rank":7500,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Durgapur","branch":"Electrical Engineering","cutoff_rank":18000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Durgapur","branch":"Electronics and Communication Engineering","cutoff_rank":11000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Durgapur","branch":"Mechanical Engineering","cutoff_rank":26000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Durgapur","branch":"Metallurgical and Materials Engineering","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Advanced","college":"IIT Ropar","branch":"Chemical Engineering","cutoff_rank":8500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Ropar","branch":"Civil Engineering","cutoff_rank":10000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Advanced","college":"IIT Ropar","branch":"Computer Science and Engineering","cutoff_rank":1800,"average_placement":21,"median_placement":19,"highest_placement":48}
+{"exam":"JEE Advanced","college":"IIT Ropar","branch":"Electrical Engineering","cutoff_rank":4000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Ropar","branch":"Mechanical Engineering","cutoff_rank":6500,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Ropar","branch":"Metallurgical and Materials Engineering","cutoff_rank":10500,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"MNNIT Allahabad","branch":"Biotechnology","cutoff_rank":42000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"MNNIT Allahabad","branch":"Chemical Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"MNNIT Allahabad","branch":"Civil Engineering","cutoff_rank":35000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"MNNIT Allahabad","branch":"Computer Science and Engineering","cutoff_rank":6000,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"JEE Main","college":"MNNIT Allahabad","branch":"Electrical Engineering","cutoff_rank":14000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"MNNIT Allahabad","branch":"Electronics and Communication Engineering","cutoff_rank":10000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"MNNIT Allahabad","branch":"Mechanical Engineering","cutoff_rank":20000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"MNNIT Allahabad","branch":"Production and Industrial Engineering","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Aeronautical Engineering","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Biotechnology","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Chemical Engineering","cutoff_rank":36000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Civil Engineering","cutoff_rank":45000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Computer Science and Engineering","cutoff_rank":11000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Electrical and Electronics Engineering","cutoff_rank":26000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Electronics and Communication Engineering","cutoff_rank":18000,"average_placement":15,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Mechanical Engineering","cutoff_rank":32000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Manipal Institute of Technology","branch":"Information Technology","cutoff_rank":13000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"PSG College of Technology","branch":"Civil Engineering","cutoff_rank":48000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"PSG College of Technology","branch":"Computer Science and Engineering","cutoff_rank":12000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"PSG College of Technology","branch":"Electrical andava Electronics Engineering","cutoff_rank":28000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"PSG College of Technology","branch":"Electronics and Communication Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"PSG College of Technology","branch":"Mechanical Engineering","cutoff_rank":35000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"PSG College of Technology","branch":"Metallurgical Engineering","cutoff_rank":45000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"PSG College of Technology","branch":"Production Engineering","cutoff_rank":40000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"PSG College of Technology","branch":"Textile Technology","cutoff_rank":50000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"SVNIT Surat","branch":"Chemical Engineering","cutoff_rank":32000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"SVNIT Surat","branch":"Civil Engineering","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"SVNIT Surat","branch":"Computer Science and Engineering","cutoff_rank":6500,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"SVNIT Surat","branch":"Electrical Engineering","cutoff_rank":16000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"SVNIT Surat","branch":"Electronics and Communication Engineering","cutoff_rank":11000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"SVNIT Surat","branch":"Mechanical Engineering","cutoff_rank":24000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Tirupati","branch":"Chemical Engineering","cutoff_rank":9000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Tirupati","branch":"Civil Engineering","cutoff_rank":10500,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Advanced","college":"IIT Tirupati","branch":"Computer Science and Engineering","cutoff_rank":2200,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Advanced","college":"IIT Tirupati","branch":"Electrical Engineering","cutoff_rank":5000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Advanced","college":"IIT Tirupati","branch":"Mechanical Engineering","cutoff_rank":7000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"VNIT Nagpur","branch":"Chemical Engineering","cutoff_rank":34000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"VNIT Nagpur","branch":"Civil Engineering","cutoff_rank":39000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"VNIT Nagpur","branch":"Computer Science and Engineering","cutoff_rank":7000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"VNIT Nagpur","branch":"Electrical and Electronics Engineering","cutoff_rank":15000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"VNIT Nagpur","branch":"Electronics and Communication Engineering","cutoff_rank":11000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"VNIT Nagpur","branch":"Mechanical Engineering","cutoff_rank":23000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"VNIT Nagpur","branch":"Metallurgical and Materials Engineering","cutoff_rank":43000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"VNIT Nagpur","branch":"Mining Engineering","cutoff_rank":45000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Biotechnology","cutoff_rank":48000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Chemical Engineering","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Civil Engineering","cutoff_rank":42000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Computer Science and Engineering","cutoff_rank":8500,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Electrical Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Electronics and Communication Engineering","cutoff_rank":14000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Information Technology","cutoff_rank":10000,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Mechanical Engineering","cutoff_rank":28000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Metallurgical and Materials Engineering","cutoff_rank":46000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Raipur","branch":"Mining Engineering","cutoff_rank":50000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Advanced","college":"IIT Jammu","branch":"Chemical Engineering","cutoff_rank":9500,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Jammu","branch":"Civil Engineering","cutoff_rank":11000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Advanced","college":"IIT Jammu","branch":"Computer Science and Engineering","cutoff_rank":2500,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"JEE Advanced","college":"IIT Jammu","branch":"Electrical Engineering","cutoff_rank":6000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Advanced","college":"IIT Jammu","branch":"Mechanical Engineering","cutoff_rank":8000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Jammu","branch":"Materials Engineering","cutoff_rank":11500,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"IIIT Hyderabad","branch":"Computer Science and Engineering","cutoff_rank":2000,"average_placement":22,"median_placement":20,"highest_placement":50}
+{"exam":"JEE Main","college":"IIIT Hyderabad","branch":"Electronics and Communication Engineering","cutoff_rank":4000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Meghalaya","branch":"Civil Engineering","cutoff_rank":50000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"NIT Meghalaya","branch":"Computer Science and Engineering","cutoff_rank":12000,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Meghalaya","branch":"Electrical and Electronics Engineering","cutoff_rank":30000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"NIT Meghalaya","branch":"Electronics and Communication Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Meghalaya","branch":"Mechanical Engineering","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Chemical Engineering","cutoff_rank":40000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Civil Engineering","cutoff_rank":45000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Computer Science and Engineering","cutoff_rank":10000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Electrical Engineering","cutoff_rank":25000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Electronics and Communication Engineering","cutoff_rank":18000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Mechanical Engineering","cutoff_rank":32000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"Thapar Institute of Engineering and Technology","branch":"Biotechnology","cutoff_rank":42000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Patna","branch":"Civil Engineering","cutoff_rank":43000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Patna","branch":"Computer Science and Engineering","cutoff_rank":9000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"NIT Patna","branch":"Electrical Engineering","cutoff_rank":22000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Patna","branch":"Electronics and Communication Engineering","cutoff_rank":15000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"NIT Patna","branch":"Mechanical Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Biotechnology","cutoff_rank":46000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Chemical Engineering","cutoff_rank":38000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Civil Engineering","cutoff_rank":42000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Computer Science and Engineering","cutoff_rank":8500,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Electrical and Electronics Engineering","cutoff_rank":20000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Electronics and Communication Engineering","cutoff_rank":14000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Information Technology","cutoff_rank":9500,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Mechanical Engineering","cutoff_rank":28000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"BIT Mesra","branch":"Production Engineering","cutoff_rank":40000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Advanced","college":"IIT Bhilai","branch":"Computer Science and Engineering","cutoff_rank":2600,"average_placement":19,"median_placement":17,"highest_placement":42}
+{"exam":"JEE Advanced","college":"IIT Bhilai","branch":"Electrical Engineering","cutoff_rank":6500,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Advanced","college":"IIT Bhilai","branch":"Mechanical Engineering","cutoff_rank":8500,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Bhilai","branch":"Data Science and Artificial Intelligence","cutoff_rank":3000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"NIT Jamshedpur","branch":"Civil Engineering","cutoff_rank":41000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Jamshedpur","branch":"Computer Science and Engineering","cutoff_rank":8000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"NIT Jamshedpur","branch":"Electrical Engineering","cutoff_rank":18000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Jamshedpur","branch":"Electronics and Communication Engineering","cutoff_rank":12000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"NIT Jamshedpur","branch":"Mechanical Engineering","cutoff_rank":26000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Jamshedpur","branch":"Metallurgical and Materials Engineering","cutoff_rank":44000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Jamshedpur","branch":"Production and Industrial Engineering","cutoff_rank":42000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"IIIT Allahabad","branch":"Information Technology","cutoff_rank":4500,"average_placement":20,"median_placement":18,"highest_placement":45}
+{"exam":"JEE Main","college":"IIIT Allahabad","branch":"Electronics and Communication Engineering","cutoff_rank":8000,"average_placement":16,"median_placement":15,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Goa","branch":"Civil Engineering","cutoff_rank":46000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"NIT Goa","branch":"Computer Science and Engineering","cutoff_rank":9500,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"NIT Goa","branch":"Electrical and Electronics Engineering","cutoff_rank":24000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Goa","branch":"Electronics and Communication Engineering","cutoff_rank":16000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"NIT Goa","branch":"Mechanical Engineering","cutoff_rank":32000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Agartala","branch":"Biotechnology and Biochemical Engineering","cutoff_rank":50000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"NIT Agartala","branch":"Chemical Engineering","cutoff_rank":44000,"average_placement":10,"median_placement":9,"highest_placement":20}
+{"exam":"JEE Main","college":"NIT Agartala","branch":"Civil Engineering","cutoff_rank":47000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"NIT Agartala","branch":"Computer Science and Engineering","cutoff_rank":11000,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"NIT Agartala","branch":"Electrical Engineering","cutoff_rank":26000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"NIT Agartala","branch":"Electronics and Communication Engineering","cutoff_rank":18000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"NIT Agartala","branch":"Mechanical Engineering","cutoff_rank":34000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Agartala","branch":"Electronics and Instrumentation Engineering","cutoff_rank":30000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Advanced","college":"IIT Dharwad","branch":"Computer Science and Engineering","cutoff_rank":2800,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Advanced","college":"IIT Dharwad","branch":"Electrical Engineering","cutoff_rank":7000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Advanced","college":"IIT Dharwad","branch":"Mechanical Engineering","cutoff_rank":9000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Advanced","college":"IIT Dharwad","branch":"Chemical and Biochemical Engineering","cutoff_rank":10000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"NIT Manipur","branch":"Civil Engineering","cutoff_rank":51000,"average_placement":9,"median_placement":8,"highest_placement":18}
+{"exam":"JEE Main","college":"NIT Manipur","branch":"Computer Science and Engineering","cutoff_rank":13000,"average_placement":15,"median_placement":13,"highest_placement":32}
+{"exam":"JEE Main","college":"NIT Manipur","branch":"Electrical Engineering","cutoff_rank":28000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"NIT Manipur","branch":"Electronics and Communication Engineering","cutoff_rank":20000,"average_placement":13,"median_placement":12,"highest_placement":28}
+{"exam":"JEE Main","college":"NIT Manipur","branch":"Mechanical Engineering","cutoff_rank":36000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"IIIT Bangalore","branch":"Computer Science and Engineering","cutoff_rank":3500,"average_placement":21,"median_placement":19,"highest_placement":48}
+{"exam":"JEE Main","college":"IIIT Bangalore","branch":"Electronics and Communication Engineering","cutoff_rank":6000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"ABV-IIITM Gwalior","branch":"Computer Science and Engineering","cutoff_rank":7000,"average_placement":18,"median_placement":16,"highest_placement":40}
+{"exam":"JEE Main","college":"ABV-IIITM Gwalior","branch":"Information Technology","cutoff_rank":8500,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"ABV-IIITM Gwalior","branch":"Electronics and Communication Engineering","cutoff_rank":12000,"average_placement":15,"median_placement":14,"highest_placement":32}
+{"exam":"JEE Main","college":"IIITDM Jabalpur","branch":"Computer Science and Engineering","cutoff_rank":9000,"average_placement":17,"median_placement":15,"highest_placement":38}
+{"exam":"JEE Main","college":"IIITDM Jabalpur","branch":"Electronics and Communication Engineering","cutoff_rank":14000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"IIITDM Jabalpur","branch":"Mechanical Engineering","cutoff_rank":30000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"IIITDM Jabalpur","branch":"Smart Manufacturing","cutoff_rank":35000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"IIITDM Kancheepuram","branch":"Computer Science and Engineering","cutoff_rank":10000,"average_placement":16,"median_placement":14,"highest_placement":35}
+{"exam":"JEE Main","college":"IIITDM Kancheepuram","branch":"Electronics and Communication Engineering","cutoff_rank":16000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"IIITDM Kancheepuram","branch":"Mechanical Engineering","cutoff_rank":32000,"average_placement":12,"median_placement":11,"highest_placement":25}
+{"exam":"JEE Main","college":"IIITDM Kancheepuram","branch":"Smart Manufacturing","cutoff_rank":36000,"average_placement":11,"median_placement":10,"highest_placement":22}
+{"exam":"JEE Main","college":"IIIT Naya Raipur","branch":"Computer Science and Engineering","cutoff_rank":21000,"average_placement":18,"median_placement":16,"highest_placement":82}
+{"exam":"JEE Main","college":"IIIT Naya Raipur","branch":"Electronics and Communication Engineering","cutoff_rank":37000,"average_placement":14,"median_placement":13,"highest_placement":30}
+{"exam":"JEE Main","college":"IIIT Naya Raipur","branch":"Data Science and Artificial Intelligence","cutoff_rank":25000,"average_placement":17,"median_placement":15,"highest_placement":40}
